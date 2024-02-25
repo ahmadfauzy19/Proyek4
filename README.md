@@ -16,7 +16,7 @@ Weather_app(Tendy Wijaya 221511066)
 Shrine APP 
 Ahmad Fauzy (221511040)
 
-
 ![WhatsApp Image 2024-02-24 at 23 39 43_a6de1246](https://github.com/ahmadfauzy19/Proyek4/assets/116853020/15c9ad8e-b236-4225-b44a-3377a0ab05d9)
+![WhatsApp Image 2024-02-25 at 07 01 49_736c7e8d](https://github.com/ahmadfauzy19/Proyek4/assets/116853020/5712d3b4-4d39-4da7-8ba8-fedb0dd5bbde)
 ![WhatsApp Image 2024-02-24 at 23 22 34_3ac47905](https://github.com/ahmadfauzy19/Proyek4/assets/116853020/29911bd7-98b9-4586-85a5-ff441596eef7)
 ![WhatsApp Image 2024-02-24 at 23 22 34_8823b1f2](https://github.com/ahmadfauzy19/Proyek4/assets/116853020/d264cd72-6aae-4165-9d0a-fa28629d7028)
